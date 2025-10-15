@@ -1,0 +1,13 @@
+/*This is Emily Speirs*/
+/*Today is October 15th, 2025*/
+/*I changed the color of the background for my pages as well as the heading color, and the font and font size.*/
+
+body {
+	background-color: purple;
+}
+h1{
+	color: green;
+	font-family: calibri; 
+}
+p{
+	font-size: 50; 
